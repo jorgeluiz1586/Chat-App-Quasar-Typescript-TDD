@@ -1,0 +1,7 @@
+{
+  "appId": "com.fastmessager.app",
+  "appName": "Chat App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
